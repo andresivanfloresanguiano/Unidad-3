@@ -1,0 +1,5 @@
+1|Ropa para niños|200|kids
+2|ropa hombes|250|pantalones
+3|gorras|200|hombre gorras
+4|sudaderas fri0|300|sudaderas
+5|camuisas|100|camisas hombre

@@ -1,0 +1,5 @@
+gorras|200.0|200|40000.0
+sudaderas fri0|300.0|1|300.0
+ropa hombes|250.0|2|500.0
+ropa hombes|250.0|3|750.0
+Ropa para niños|200.0|2|400.0
